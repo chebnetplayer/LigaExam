@@ -1,0 +1,15 @@
+C:\Users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user\documents\visual studio 2015\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LigaExam\ConsoleApplication1\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2015\Projects\LigaExam\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\LigaExam\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LigaExam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\user\Documents\Visual Studio 2015\Projects\LigaExam\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\user\Documents\Visual Studio 2015\Projects\LigaExam\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\user\Documents\Visual Studio 2015\Projects\LigaExam\ConsoleApplication1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2015\Projects\LigaExam\ConsoleApplication1\bin\Debug\Newtonsoft.Json.xml
